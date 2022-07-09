@@ -16,17 +16,16 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="brand" href="#">LircayHub &nbsp;</a>
+        <a class="brand" href="/home">LircayHub &nbsp;</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
 
-            <a class="nav-item nav-link" href="#">Alzhaimer</a>
-            <a class="nav-item nav-link" href="/cardiologia">Cardiologia</a>
+            <a class="nav-item nav-link" href="/home">Alzhaimer</a>
+            <a class="nav-item nav-link" href="/cardiologia">Cardiolgia</a>
             <a class="nav-item nav-link" href="/temas">Temas</a>
-
 
           </div>
         </div>
@@ -38,7 +37,7 @@
 
       <div id="contenido">
         <div class="container">
-            <h1>Ultimas investigaciones de alzhaimer</h1>
+            <h1>Ultimas investigaciones de Cardiologia</h1>
 
             <div class="row">
                 <div class="six columns">
